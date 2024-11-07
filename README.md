@@ -56,3 +56,8 @@ This Firefox and Chrome extension automatically clicks the "Apply" button on Ins
 
 ## Disclaimer
 This tool is meant to assist users in speeding up their job applications. Please ensure compliance with Instayre’s terms of service before using.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
