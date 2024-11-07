@@ -11,7 +11,7 @@ This Firefox extension automatically clicks the "Apply" button on Instayre every
 
 1. **Clone or Download the Repository**:
    ```
-   git clone https://github.com/yourusername/auto-apply-clicker.git
+   git clone https://github.com/arbaz686/auto-apply-clicker.git
    ```
 
 2. **Load the Extension in Firefox**:
