@@ -1,6 +1,6 @@
 # Auto Apply Clicker for Instayre
 
-This extension automatically clicks the "Apply" button on Instayre every 2 seconds.
+This extension automatically clicks the "Apply" button on Instayre every 5 seconds.
 
 ## Installation
 
