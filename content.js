@@ -7,4 +7,4 @@ function clickApplyButton() {
 }
 
 // Set an interval to click the Apply button every 2 seconds
-setInterval(clickApplyButton, 2000);
+setInterval(clickApplyButton, 5000);
