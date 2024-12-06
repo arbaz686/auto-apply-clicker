@@ -23,7 +23,7 @@ This extension automatically clicks the "Apply" button on Instayre every 5 secon
 
 3. **Open Instayre and Start Applying**:
    - Go to Instayre’s job listings page.
-   - The extension will start clicking the "Apply" button every 2 seconds.
+   - The extension will start clicking the "Apply" button every 5 seconds.
 
 ## Files and Structure
 
